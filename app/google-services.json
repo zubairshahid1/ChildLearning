@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "889352104397",
+    "firebase_url": "https://child-learning-a1bbf.firebaseio.com",
+    "project_id": "child-learning-a1bbf",
+    "storage_bucket": "child-learning-a1bbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889352104397:android:b8322a0af329f3b7047c84",
+        "android_client_info": {
+          "package_name": "com.codies.childlearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889352104397-v3b8ja5fhkd9sp7uhg7cqfl5f472676v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codies.childlearning",
+            "certificate_hash": "197284519d05fa34c38e66300edb5522234cf06d"
+          }
+        },
+        {
+          "client_id": "889352104397-06nb2b5u79hh62ns9fcsr9bb8umek7t4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJllEYzu6HDn7-IsK3qBMfvgbX8iSRmu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889352104397-06nb2b5u79hh62ns9fcsr9bb8umek7t4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
